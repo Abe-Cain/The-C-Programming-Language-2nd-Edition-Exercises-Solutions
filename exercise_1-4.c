@@ -13,7 +13,8 @@ int main()
 
     cel = min;
 
-    while (cel <= max) {
+    while (cel <= max) 
+    {
         far = (cel * 9.0 / 5.0) + 32;
         printf("%6.1f\t\t%6.1f\n", cel, far);
         cel += step;
