@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     // 1. Missing closing quote and semicolon
     printf(hello, world\n");
 
