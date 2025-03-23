@@ -9,16 +9,12 @@ Welcome to my GitHub repository! This repository contains my solutions to all ex
 The exercises are structured as follows:
 
 ```
-📂 Chapter_1
  ├── 📄 exercise_1-1.c
  ├── 📄 exercise_1-2.c
- ├── ...
-📂 Chapter_2
  ├── 📄 exercise_2-1.c
  ├── 📄 exercise_2-2.c
  ├── ...
-...
 ```
 
-Each chapter has its own folder, and each exercise is a separate `.c` file.
+Each exercise is a separate `.c` file.
 Happy coding! 🚀
